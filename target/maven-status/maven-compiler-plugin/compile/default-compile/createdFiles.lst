@@ -1,0 +1,5 @@
+com\afifpermana\mahasiswa\service\repository\MahasiswaRepository.class
+com\afifpermana\mahasiswa\service\controller\MahasiswaController.class
+com\afifpermana\mahasiswa\service\entity\Mahasiswa.class
+com\afifpermana\mahasiswa\service\MahasiswaServiceApplication.class
+com\afifpermana\mahasiswa\service\service\MahasiswaService.class
